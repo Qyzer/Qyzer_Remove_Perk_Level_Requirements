@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Qyzer's Exp B238 Remove Level Requirements" />
+		<Description value="Removes Level Requirements from Perks" />
+		<Author value="Qyzer" />
+		<Version value="1" />
+	</ModInfo>
+</xml>
